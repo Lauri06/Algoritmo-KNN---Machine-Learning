@@ -1,0 +1,601 @@
+texto,clase
+solicito reembolso por peddo en bogota ayuda,devolucion_reembolso
+quieo rastrear mi compra en chia nadie responde,seguimiento_pedido
+el producto llego dañado en zipa q pasa con esto,producto_danado
+recibi el pedido rto en bogota nadie responde,producto_danado
+mi pedido no ha llegado a chia desde una semana ya es mucho tiempo,reclamo_entrega
+el sistema rechazo mi tarjeta en funza necesito solucion,problema_pago
+como va el estado del peddo en funza ya es mucho tiempo,seguimiento_pedido
+el sistema rechazo mi tarjeta en mosqra ayuda,problema_pago
+el sistema rechazo mi tarjeta en madrid ya reclame antes,problema_pago
+no entregaron el producto en chia porfa urgente,reclamo_entrega
+recibi el peddo roto en chia,producto_danado
+pueden decirme cuando llega el peddo a facatativa porfa urgente,seguimiento_pedido
+quiero cancelar la compra hecha en mosqra ya reclame antes,devolucion_reembolso
+que caracteriticas tiene el producto en mosquera ya reclame antes,consulta_producto
+hay stock del producto en mosqra,consulta_producto
+hay stock del producto en bogota nadie responde,consulta_producto
+no me dejo pagar el peddo en funza ayuda,problema_pago
+lo que compre llego en mal estado a mosquera que pasa con esto,producto_danado
+pueden decirme cuando llega el pedido a mosquera nadie responde,seguimiento_pedido
+quiero saber sitienen disponibilidad en funza que pasa con esto,consulta_producto
+no recibo el paqte en chia y ya paso mas de una semana necesito solucion,reclamo_entrega
+no me dejo pagar el peddo en bogota ya reclame antes,problema_pago
+en bogota sigo esperando el envio ayuda,reclamo_entrega
+lo q compre llego en mal estado a madrid porfa urgente,producto_danado
+solicito reembolso por peddo en bogota ya es mucho tiempo,devolucion_reembolso
+no estoy conforme y quiero mi dinero de vuelta en madrid ya reclame antes,devolucion_reembolso
+no recibo el paquete en bogota y ya paso mas de una semana ya reclame antes,reclamo_entrega
+pueden decirme cando llega el pedido a zipa q pasa con esto,seguimiento_pedido
+quiero rastrear mi compra en chia ya es mucho tiempo,seguimiento_pedido
+no se completo el pago del producto en zip nadie responde,problema_pago
+me pueden dar info del producto en chia,consulta_producto
+el sistema rechazo mi tarjeta en madrid ayuda,problema_pago
+que caracteristicas tiene el producto n bogota necesito solucion,consulta_producto
+no estoy conforme y quiero mi dinero de vuelta en funza ayuda,devolucion_reembolso
+quiero rastrear m compra en facatativa,seguimiento_pedido
+no se completo el pago del producto en zipa necesito solucion,problema_pago
+solicito reembolso por pedido en bogota necesito solucion,devolucion_reembolso
+quiero cancelar la compra hecha en madrid ya es mucho tiempo,devolucion_reembolso
+q caracteristicas tiene el producto en bogota,consulta_producto
+el paqte llego pero el producto esta malo en madrid ya reclame antes,producto_danado
+no recibo el paquete en chia y ya aso varios dias ayuda,reclamo_entrega
+quiero saber si tienen disponibilidad en funza porfa urgente,consulta_producto
+quiero saber si tienen disponibilidad en chia necesito solucion,consulta_producto
+tengo inconvenientes con el cobro en facatativa q pasa con esto,problema_pago
+q caracteristicas tiene el producto en facatativa ayuda,consulta_producto
+tuve error al hacer el pago en mosquera porfa urgente,problema_pago
+quiero devolver el produco comprado en mosquera porfa urgente,devolucion_reembolso
+el producto llego dañado en facatativa necesito solucion,producto_danado
+necesito detalles del articulo antes de comprar en chia ya es mucho tiempo,consulta_producto
+solicito reembolso por pedido en funza,devolucion_reembolso
+quiero cancelar la compra hecha en bogot nadie responde,devolucion_reembolso
+solicito reembolso por pedido en facatativa necesito solucion,devolucion_reembolso
+lo q compre llego en mal estado a funza q pasa con esto,producto_danado
+quiero cacelar la compra hecha en madrid ya es mucho tiempo,devolucion_reembolso
+no entregaron el producto en zipa porfa urgente,reclamo_entrega
+quiero rastrear mi compra en mosqra porfa urgente,seguimiento_pedido
+pueden decirme cuando llega el pedido a funza q pasa con esto,seguimiento_pedido
+en funza sigo esperando el envio ya reclame antes,reclamo_entrega
+recibi el peddo roto en bogota nadie responde,producto_danado
+mi pedido no ha llegado a mosqra desde varios dias ya es mucho tiempo,reclamo_entrega
+no se completo el pago del producto en zipa ayuda,problema_pago
+quiero rastrear mi compra en madrid ayuda,seguimiento_pedido
+no recibo el paquete en facatativa y ya paso mucho tiempo ya es mucho tiempo,reclamo_entrega
+necesito hacer devolucion del articulo en zipa nadie responde,devolucion_reembolso
+quiero devolver el producto comprado en chia porfa urente,devolucion_reembolso
+hay stock del produto en chia ya reclame antes,consulta_producto
+quiero devolver el producto comprado en funza ya reclame antes,devolucion_reembolso
+me pueden dar info del producto en chia ayuda,consulta_producto
+no recibo el paquete en mosquera y ya paso una semana nadie responde,reclamo_entrega
+el producto llego dañado en chia ayuda,producto_danado
+el producto llego dañado en madrid ya reclame antes,producto_danado
+pueden decirme cuando llega el peddo a funza q pasa con esto,seguimiento_pedido
+tengo inconvenientes con el cobro en zipa necesito solucion,problema_pago
+tengo inconvenientes con el cobro en facatativa porfa urgente,problema_pago
+me pueden dar info del produto en funza que pasa con esto,consulta_producto
+en bogota sigo esperando el envio ya reclame antes,reclamo_entrega
+necesito hacer devolucion del articulo en facatativa ya reclame antes,devolucion_reembolso
+el articulo vino defectuoso en mosquera ya reclame antes,producto_danado
+tuve error al hacer el pago en chia que pasa con esto,problema_pago
+me pueden dar info del producto en funza ayuda,consulta_producto
+quiero saber donde va mi pedido en madrid porfa urgente,seguimiento_pedido
+tuve error al hacer el pago en chia ya reclame antes,problema_pago
+no estoy conforme y quiero mi dinero de vuelta en facatativa ya reclame antes,devolucion_reembolso
+lo qu compre llego en mal estado a funza ya reclame antes,producto_danado
+necesito hacer devolucion del articulo en madrid ya reclame antes,devolucion_reembolso
+el pedido nunca llego a madrid ya es mucho tiempo,reclamo_entrega
+el paquete llego pero el producto esta malo en zipa,producto_danado
+mi peddo no ha llegado a chia desde varios dias,reclamo_entrega
+necesito seguimiento del envio en mosqra q pasa con esto,seguimiento_pedido
+solicito reembolso por pedido en funza nadie responde,devolucion_reembolso
+necesito seguimiento del envio en bogota ya reclame antes,seguimiento_pedido
+necesito hacer devolucion del articulo en facatativa ayuda,devolucion_reembolso
+no entregaron el producto en facatativa que pasa con esto,reclamo_entrega
+no estoy conforme y quiero mi dinero de vuelta en funza porfa urgente,devolucion_reembolso
+quiero rastrear mi compra en mosquera porfa urgente,seguimiento_pedido
+solicito reembolso por pedido en zipa necesito solucion,devolucion_reembolso
+recibi el pedido roto en facatativa nadie responde,producto_danado
+solicito reembolso por pedido en mosquera ya es mucho tiempo,devolucion_reembolso
+quiero cancelar la compra hecha en funza adie responde,devolucion_reembolso
+no se completo el pago del producto en zipa,problema_pago
+como va el estado del pedido en bogota porfa urgente,seguimiento_pedido
+no se completo el pago del producto en bogota porfa urgente,problema_pago
+no me dejo pagar el peddo en mosquera ya reclame antes,problema_pago
+tengo inconvenientes con el cobro en bogota nadie responde,problema_pago
+el sistema rechazo mi tarjeta en madrid porfa urgente,problema_pago
+hay stock del producto en mosquera que pasa con esto,consulta_producto
+en bogota sigo esperando el envio nadie responde,reclamo_entrega
+solicito reembolso por pedido en chia ya es mucho tiempo,devolucion_reembolso
+el producto llego dañado en bogota,producto_danado
+necesito seguimiento del envio en bogota,seguimiento_pedido
+q caracteristicas tiene el producto en mosqra q pasa con esto,consulta_producto
+quiero rastrear mi compra en zipa que pasa con esto,seguimiento_pedido
+quiero rastrear mi compra en madrid nadie responde,seguimiento_pedido
+el articulo vino defectuoso en funza,producto_danado
+no se completo el pago del producto en facatativa que pasa con esto,problema_pago
+solicito reembolso por peddo en zipa que pas con esto,devolucion_reembolso
+quiero rastrear mi compra en bogota q pasa con esto,seguimiento_pedido
+q caracteristicas tiene el producto en madrid ya es mucho tiempo,consulta_producto
+quiero saber donde va mi pedido en bogota nadie responde,seguimiento_pedido
+tengo inconvenientes con el cobro n mosqra porfa urgente,problema_pago
+no me dejo pagar el pedido en facatativa,problema_pago
+quiero rastrearmi compra en funza ya es mucho tiempo,seguimiento_pedido
+q caracteristicas tiene el producto en chia ya es mucho tiempo,consulta_producto
+como va el estado del pedid en funza,seguimiento_pedido
+pueden decirme cuando llega el pedido a bogota ya es mucho tiempo,seguimiento_pedido
+solicito reembolso por peddo en madrid ayuda,devolucion_reembolso
+el pedidonunca llego a funza,reclamo_entrega
+lo q compre llego en mal estado a facatativa nadie responde,producto_danado
+no se compleo el pago del producto en funza ya es mucho tiempo,problema_pago
+quiero devolver el producto comprado en bogota ya reclame antes,devolucion_reembolso
+como va el estado del pedido en mosqra q pasa con esto,seguimiento_pedido
+el pedido nnca llego a madrid ya es mucho tiempo,reclamo_entrega
+quiero rastrear mi compra en mosquera necesitosolucion,seguimiento_pedido
+solicito reembolso por pedio en zipa necesito solucion,devolucion_reembolso
+solicito reembolso por pedido en bogota ya reclame antes,devolucion_reembolso
+hay stock del producto en chia ya es mucho tiempo,consulta_producto
+el pedido nunca llego a bogota porfa urgente,reclamo_entrega
+no recibo el pauete en bogota y ya paso mucho tiempo ayuda,reclamo_entrega
+me pueden dar info del producto en zipa que pasa con esto,consulta_producto
+necesito seguimiento del envio en chia,seguimiento_pedido
+quiero cancelar la compra hecha en madrid necesito solucion,devolucion_reembolso
+no se completo el pago del producto en mosquera nadie responde,problema_pago
+me pueden dar info del producto en zipa,consulta_producto
+el paqte llego pero el producto esta malo en mosqra nadie responde,producto_danado
+quiero cancelar la compra hecha en bogota,devolucion_reembolso
+el sistema rechazo mi tarjeta en bogota necesit solucion,problema_pago
+lo que compre llego en mal estado a zpa porfa urgente,producto_danado
+solicito reembolso por peddo en chia nadie responde,devolucion_reembolso
+pueden decirm cuando llega el peddo a mosquera ya reclame antes,seguimiento_pedido
+solicito reembolso por pedido en facatativa ya es mucho tiempo,devolucion_reembolso
+solicito reembolso por pedido en madrid ya es mucho tiempo,devolucion_reembolso
+recibi el pedido roto en madrid,producto_danado
+hay stock del producto en funza yuda,consulta_producto
+quiero saber donde va mi pedido en facatativa,seguimiento_pedido
+no me dejo pagar el pedidoen mosquera ayuda,problema_pago
+no recibo el paquete en chia y ya paso dias ya reclame antes,reclamo_entrega
+quiero devolver el producto comprado en chia ayuda,devolucion_reembolso
+hay stock del producto en madrid que pasa con esto,consulta_producto
+tuve error al hacer el pago en chia nadie responde,problema_pago
+quiero saber donde va mi pedido en madrid necesito solucion,seguimiento_pedido
+el pedido nunca llego a facatativa ya es mucho tiempo,reclamo_entrega
+en zipa sigo esperando el envio ya es mucho tiempo,reclamo_entrega
+quiero rastrear mi compra en chia porfa urgente,seguimiento_pedido
+el pedido nunca llego a chia,reclamo_entrega
+recibi el pedido rotoen zipa ya es mucho tiempo,producto_danado
+quiero saber si tienen disponibilidad en chia que pasa con esto,consulta_producto
+que caracteristicas tiene el producto en chia ayuda,consulta_producto
+me pueden dar info del producto en zipa porfa urgente,consulta_producto
+necesito detalles del articulo antes de comprar en mosquera porfa urgente,consulta_producto
+me pueden dar info del producto en mosquera que pasa con esto,consulta_producto
+tengo inconvenientes con el cobro en madid q pasa con esto,problema_pago
+necesito seguiiento del envio en zipa porfa urgente,seguimiento_pedido
+no estoy conforme y quiero mi dinero de vuelta en funza nadie responde,devolucion_reembolso
+el sistema rechazo mi tarjeta en bogota necesito solucion,problema_pago
+el paquete llego pero el producto esta malo en funza que pasa con esto,producto_danado
+necesito hacer devolucion el articulo en funza q pasa con esto,devolucion_reembolso
+necesito hacer devolucion del articulo en zipa ya es mucho tiempo,devolucion_reembolso
+como va el estado del pedido en zipa que pasa con esto,seguimiento_pedido
+tuve error al hacer el pago en bogota q pasa con esto,problema_pago
+no me dejo pagar el pedido en madrid,problema_pago
+q caracteristicas tiene el producto en zipa ayuda,consulta_producto
+hay stock del producto en chia que pasa con esto,consulta_producto
+mi pedido no ha llegado a bogota desde mucho tiempo ya es much tiempo,reclamo_entrega
+pueden decirme cuando llega el peddo a funza necesito solucion,seguimiento_pedido
+no entregaron el producto en mosqra porfa urgente,reclamo_entrega
+no recibo el paqte en madrid y ya paso mucho tiempo,reclamo_entrega
+no me dejo pagar el pedido en facatativa ayuda,problema_pago
+no me dejo pagar el peddo en facatativa,problema_pago
+no entregaron el producto en mosquera,reclamo_entrega
+pueden decirme cuando llega el pedido a zipa,seguimiento_pedido
+no entregaron el producto en madrid ya reclame ants,reclamo_entrega
+quiero cancelar la compra hecha en chia porfa urgente,devolucion_reembolso
+quiero devolver el producto comprado en funza necesito solucion,devolucion_reembolso
+no se completo el pago del producto en chia ayuda,problema_pago
+no me dejo pagar el pedido enchia ayuda,problema_pago
+quiero rastrear mi compra en facatativa porfa urgente,seguimiento_pedido
+quiero rastrear mi compra en bogota ya es mucho tiempo,seguimiento_pedido
+el articulo vino defectuoso en madrid que pasa con esto,producto_danado
+como va el estado del pedido en funza que pasa con esto,seguimiento_pedido
+recibi el pedido roto en zipa porfa urgente,producto_danado
+en madrid sigo esperando el envio ayuda,reclamo_entrega
+en zipa sigo esperando el envio,reclamo_entrega
+el articulo vino defectuoso en bogota ya reclame antes,producto_danado
+quiero devolver el producto comprado en mosquera nadie responde,devolucion_reembolso
+lo q compre llego en mal estado a bogota ayuda,producto_danado
+necesito hacer devolucion del articulo en bogota necesito solucion,devolucion_reembolso
+no entregaron el producto en chia ya reclme antes,reclamo_entrega
+lo que compre llego en mal estado a mosquera ya es mucho tiempo,producto_danado
+pueden decirme cuando llega el pedio a chia,seguimiento_pedido
+mi peddo no ha llegado a facatativa desde una semana que pasa con esto,reclamo_entrega
+solicito reembolso por pedido en chia que pasacon esto,devolucion_reembolso
+tengo inconvenientes con el cobro en facatativa,problema_pago
+el paqte llego pero el producto esta malo en funza porfa urgente,producto_danado
+no entregaron el producto en mosqra necesito solucion,reclamo_entrega
+recibi el pedido roto en mosquera,producto_danado
+quiero saber donde va mi pedido en zipa nadie responde,seguimiento_pedido
+el articulo vino defectuoso en chia ya reclame antes,producto_danado
+necesito detalles del articulo antes de comprar en funza ya es mucho tiempo,consulta_producto
+necesito detalles del articulo antes de comprar en chia ya reclame antes,consulta_producto
+tuve error al hacer el pago en bogota ayuda,problema_pago
+el paquete llego pero el producto esta malo en bogota,producto_danado
+necesito detalles del articulo antes de comprar en madrid que pasa con esto,consulta_producto
+tengo inconvenientes con el cobro en chia nadie responde,problema_pago
+quiero devolver el producto compado en mosqra nadie responde,devolucion_reembolso
+el pedido nunca llego a mosquera que pasa con esto,reclamo_entrega
+hay stck del producto en bogota,consulta_producto
+el pedidonunca llego a chia ayuda,reclamo_entrega
+necesito detalles del articulo ates de comprar en facatativa ya reclame antes,consulta_producto
+solicito reembolso por pedido en facatativa porfa urgente,devolucion_reembolso
+el peddo nunca llego a madrid porfa urgente,reclamo_entrega
+mi pedido no ha llegado a cha desde mucho tiempo,reclamo_entrega
+necesito hacer devolucion del articulo en facatativa porfa urgente,devolucion_reembolso
+no se completo el pago del product en chia ya es mucho tiempo,problema_pago
+necesito dealles del articulo antes de comprar en zipa ayuda,consulta_producto
+el paquete llego pero el producto esta malo en facatativa,producto_danado
+tuve error al hacer el pago en bogota porfa urgente,problema_pago
+me pueden dar info delproducto en mosquera que pasa con esto,consulta_producto
+solicito reembolso por pedido en mosquera que pasa con esto,devolucion_reembolso
+el articulo vino defectuoso en funza ya es mucho tiempo,producto_danado
+quiero saberdonde va mi pedido en funza,seguimiento_pedido
+quiero rastrear mi compra en zipa,seguimiento_pedido
+lo q compre llego en mal estado a madrid ayuda,producto_danado
+el articulo vino defectuoso en chia,producto_danado
+no estoy conforme y quiero mi dinero de vuelta en mosquera necesito solucion,devolucion_reembolso
+como va el estado del pedido en bogota ya reclame antes,seguimiento_pedido
+el producto llego dañado en facatativa que pasa con esto,producto_danado
+no estoy conforme y uiero mi dinero de vuelta en mosquera que pasa con esto,devolucion_reembolso
+quiero rastrear micompra en chia ya reclame antes,seguimiento_pedido
+tengo inconvenientes con el cobro en funza,problema_pago
+recibi el pedido roto en chia porfa urgente,producto_danado
+tuve error al hacer el pago en bogota necesito solucion,problema_pago
+en facatativa sigo esperando el envio que pasa con esto,reclamo_entrega
+necesito hacer devolucion del articulo en bogota que pasa con esto,devolucion_reembolso
+necesito detalles del articulo antes de comprar en zipa ya reclame antes,consulta_producto
+el producto llego dañado en chia nadie responde,producto_danado
+me pueden dar info del producto en mosquera ya es mucho tiempo,consulta_producto
+no me dejo paga el pedido en facatativa ya es mucho tiempo,problema_pago
+el paquete llego pero el product esta malo en bogota necesito solucion,producto_danado
+q caracteristicas tiene el producto en mosqra ya reclame antes,consulta_producto
+en mosquera sigo esperando el envio porfa urgente,reclamo_entrega
+que caracteristicas tiene el producto en madrid,consulta_producto
+me pueden dar info del producto en mosqra nadie responde,consulta_producto
+necesito detalles del articulo antes de comprar en zipa necesito solucion,consulta_producto
+no se completo el pago del producto en zipa que pasa con esto,problema_pago
+me pueden dar ino del producto en madrid porfa urgente,consulta_producto
+mi pedido no ha llegado a bogota desde varios dias nadie responde,reclamo_entrega
+no estoy conforme y quiero mi dinero de vuelta en madrid ya es mucho tiempo,devolucion_reembolso
+que caracteristicas tiene el producto en bogota ayuda,consulta_producto
+quiero saber donde va mi pedido en facatativa ya reclame antes,seguimiento_pedido
+hay stock del producto en zipa ya reclame antes,consulta_producto
+necesito detalles del articulo antes de comprar en funza ayuda,consulta_producto
+mi peddo no ha llegado a bogota desde varios dias necesito solucion,reclamo_entrega
+mi pedido no ha llegado a madrid desde mucho tiempo porfa urgente,reclamo_entrega
+como va el estado del pedido en zipa nadie responde,seguimiento_pedido
+me pueden dar info del producto en madrid que pasa con esto,consulta_producto
+el paquete llego pero el producto esta malo en chia ya es mucho tiempo,producto_danado
+quiero cancelar la compra hecha en zip nadie responde,devolucion_reembolso
+necesito hacer devolucion del articulo en chia nadie responde,devolucion_reembolso
+necesito hacer devolucion del articulo en facatativa ya es mucho tiempo,devolucion_reembolso
+quiero rastrear mi compra en bogota ayuda,seguimiento_pedido
+tuve error al hacer el pago en chia porfa urgente,problema_pago
+solicito reembolso por pedido en facatativa,devolucion_reembolso
+hay stock del producto en facatativa nadie responde,consulta_producto
+el producto llego dañado en bogota nadie respnde,producto_danado
+quiero saber si tienen disponibilidad en funza necesito solucion,consulta_producto
+solicito reembolso por peddo en chia porfa urgente,devolucion_reembolso
+no me dejo pagar el peddo en zipa ya reclame antes,problema_pago
+no me dejo pagar el pedido en funza que pasa con esto,problema_pago
+quiro cancelar la compra hecha en zipa,devolucion_reembolso
+quiero devolver el producto comprado en facatativa ya es mucho tiempo,devolucion_reembolso
+el peido nunca llego a facatativa nadie responde,reclamo_entrega
+el sistema rechazo mi tarjeta en chia ayuda,problema_pago
+el paqte llego pero el producto esta malo en chia porfa urgente,producto_danado
+quiero devolver el producto comprado en funza ya es mucho tiempo,devolucion_reembolso
+necesito seguimiento del envio en chia que pasa con esto,seguimiento_pedido
+no se completo el pago del producto en mosquera que pasa con eto,problema_pago
+como va el estado del peddo en mosqra ayuda,seguimiento_pedido
+no recibo el paquete en facatativa y ya paso dias ya reclame antes,reclamo_entrega
+no me dejo pagar el pedido en mosquera ya es mucho tiempo,problema_pago
+el sistema rechazo mi tarjeta en mosqra necesito solucion,problema_pago
+el paqte llego pero el producto esta malo en bogota ya reclame antes,producto_danado
+no estoy conforme y quiero mi dinero de vuelta en funza que pasa con esto,devolucion_reembolso
+necesito detalles del articulo antes de comprar en bogota necesito solucion,consulta_producto
+el pedido nunca llego a zia ayuda,reclamo_entrega
+no estoy conforme y quiero mi dinero de vuelta en madrid nadie responde,devolucion_reembolso
+el sistema rechazo mi tarjeta en funza nadie responde,problema_pago
+quiero devolver el producto comprado en madrid ayuda,devolucion_reembolso
+quiero rastrear mi compra en bogota necesito solucion,seguimiento_pedido
+en bogota sigo esperando el envio ya rclame antes,reclamo_entrega
+no entregaron el producto en bogota necesito solucion,reclamo_entrega
+tengo inconvenientes con el cobro en chia ya reclame antes,problema_pago
+no me dejo pagar e pedido en funza,problema_pago
+mi pedido no ha llegado a facatativa desde mas de una semana nadie responde,reclamo_entrega
+que caracteristicas tiene el producto en mosquera ya es mucho tiempo,consulta_producto
+el producto llego dañado en zipa ya reclame antes,producto_danado
+tuve error al hacer el pago en zipa ayuda,problema_pago
+no se completo el pago del producto en bogota,problema_pago
+el producto llego dañado en mosqra nadie responde,producto_danado
+el pedido nunca llego a madrid,reclamo_entrega
+no recibo el paquete en chia y ya paso una semana porfa urgente,reclamo_entrega
+recibi el pedido roto en madrid necesito solucion,producto_danado
+el articulo vino defectuoso en funza ayuda,producto_danado
+mi pedido no ha llegado a boota desde una semana nadie responde,reclamo_entrega
+el paqte llegopero el producto esta malo en chia,producto_danado
+tuve eror al hacer el pago en zipa porfa urgente,problema_pago
+el paquete llego pero el producto esta malo en zipa necesito solucion,producto_danado
+tuve error al hacer el pago en madrid,problema_pago
+quiero cancelar la compra hecha en bogota ayuda,devolucion_reembolso
+quiero saber donde va mi pedido en madrid q pasa con esto,seguimiento_pedido
+como va el etado del peddo en facatativa necesito solucion,seguimiento_pedido
+quiero saber donde va mi peddo en zipa,seguimiento_pedido
+tengo inconvenentes con el cobro en chia nadie responde,problema_pago
+el sistema rechazo mi tarjeta en zipa,problema_pago
+hay stock del producto en madrid necesito solucion,consulta_producto
+como va el estado del peddo en bogota,seguimiento_pedido
+hay stock del producto en chia,consulta_producto
+quiero devolver el producto comprado en madrid ya es mucho tiempo,devolucion_reembolso
+no se completo el pago del producto en mosqra ya reclame antes,problema_pago
+tuve error al hacer el pago en funza ya es mucho tiempo,problema_pago
+mi peddo no ha llegado a madrid desde varios dias ayuda,reclamo_entrega
+no entregaron el producto en mosquera porfa urgente,reclamo_entrega
+solicito reembolso por pedido en funza ya reclame antes,devolucion_reembolso
+no me dejo pagar el peddo en chia ayuda,problema_pago
+quiero rastrear mi compra e bogota,seguimiento_pedido
+pueden decirme cuando llega el pedido a mosquera que pasa con esto,seguimiento_pedido
+necesito seguimiento del envio en fuza necesito solucion,seguimiento_pedido
+necesito hacer devolucion del articulo en mosquera nadie respone,devolucion_reembolso
+quiero saber donde va mi pedido en bogota que pasa con esto,seguimiento_pedido
+quiero rastrear mi compra en funza ya es mucho tiempo,seguimiento_pedido
+el producto llego dañado en mosquera ya es mucho tiempo,producto_danado
+necesito hacer devolucion del articulo en zipa,devolucion_reembolso
+quiero devolver el producto comprado en funza porfa urgente,devolucion_reembolso
+el producto llego dañado en funza nadie responde,producto_danado
+no me dejo pagar el pedido en mosquera nadie responde,problema_pago
+quiero saber si tienen disponibilidad en chia q pasa con esto,consulta_producto
+necesito hacer devolucion del articulo en zipa q pasa con esto,devolucion_reembolso
+quiero saber donde va mi pedido en mosqra ayuda,seguimiento_pedido
+q caracteristicas tiene el producto en funza ya reclame antes,consulta_producto
+quiero rastrear mi compra en bogota,seguimiento_pedido
+quiero saber donde va mi peddo en zipa porfa urgente,seguimiento_pedido
+no entregaron el producto en mosqra ya reclame antes,reclamo_entrega
+no me dejo pagar el pedido en madrid ya es mucho tiempo,problema_pago
+quiero saber si tienen disponibilidad en madrid ya es mucho tiempo,consulta_producto
+hay stock del producto en bogota ya reclame antes,consulta_producto
+no estoy conforme y quiero mi dinero de vuelta en chia,devolucion_reembolso
+me pueden dar info del producto en funza necesito solucion,consulta_producto
+no recibo el paquete en funza y ya paso varios dias porfa urgente,reclamo_entrega
+quiero saber si tienen disponibilidad en chia porfa urgente,consulta_producto
+necesito seguimiento del envio en chia ayuda,seguimiento_pedido
+quiero cancelar la compra hecha en zipa nadi responde,devolucion_reembolso
+necesito detalles del articul antes de comprar en facatativa,consulta_producto
+quiero rastrear mi compra en zipa ya reclame antes,seguimiento_pedido
+como va el estado del pedido en facatativa porfa urgente,seguimiento_pedido
+quiero devolver el producto comprado en madrid que pasa con esto,devolucion_reembolso
+el sistema rechazo mi tarjeta en mosqra ya reclame antes,problema_pago
+pueden decirme cuando llega el pedido a funza que pasa con esto,seguimiento_pedido
+necesito detalles del articulo antes de comprar en bogota ya es mucho tiempo,consulta_producto
+no estoy conforme y quiero mi dinero de vuelta en mosquera,devolucion_reembolso
+el producto llego dañado enmadrid ayuda,producto_danado
+el sistema rechazo mi tarjeta en madrid que pasa con esto,problema_pago
+no estoy conforme y quiero mi dinero de vuelta en facatativa,devolucion_reembolso
+que caracterisicas tiene el producto en mosquera ya es mucho tiempo,consulta_producto
+tengo inconvenientes con el cobro en facatativa ayuda,problema_pago
+el sistema rechazo mi tarjeta en facatativa necesito solucion,problema_pago
+como va el estado del pedido en facatativa ya reclame antes,seguimiento_pedido
+no recibo el paqte en chia  ya paso mas de una semana ayuda,reclamo_entrega
+no me dejo pagar el peddo en mosqra porfa urgente,problema_pago
+quiero cancelar la copra hecha en zipa ya reclame antes,devolucion_reembolso
+en zipa sigo esperando el envio nadie responde,reclamo_entrega
+pueden decirme cuando llega el pedido a mosquera ayuda,seguimiento_pedido
+el articulo vino defectuoso en funza porfaurgente,producto_danado
+el sistema rechazo mi tarjeta en bogota ayuda,problema_pago
+el pedido nunca llego a funza ya reclame antes,reclamo_entrega
+no entregaron el producto en facatativa porfa urgente,reclamo_entrega
+el articulo vino defectuoso en madrid ayuda,producto_danado
+el articulo vino defectuoso en chia ya es mucho tiempo,producto_danado
+q caracteristicas tiene el producto en zipa porfa urgente,consulta_producto
+recibi el pedido roto en zipa necesito solucion,producto_danado
+el articulo vino defectuoso en zipa ya es mucho tiempo,producto_danado
+no se completo el pago del producto en zipa nadie responde,problema_pago
+necesito detalles del articulo antes de comprar en facatativa,consulta_producto
+el sistema rechazo mi tajeta en funza ayuda,problema_pago
+tengo inconvenientes con el cobro en facatativa necesito solucion,problema_pago
+pueden decirme cuando llega el pedido a madrid que pasa con esto,seguimiento_pedido
+quiero cancelar la compra hecha en zipa nadie responde,devolucion_reembolso
+quiero saber donde va mi pedido en facatativa necesito solucion,seguimiento_pedido
+no recibo el paqte en mosqra y ya paso mas de una semana q pasa con esto,reclamo_entrega
+quiero saber si tienen disponibilidad en mosquera ya reclame antes,consulta_producto
+necesito detalles del articulo antes de comprar en madrid nadie responde,consulta_producto
+elarticulo vino defectuoso en zipa porfa urgente,producto_danado
+el paqte llego pero el producto esta malo en madrid,producto_danado
+que caracteisticas tiene el producto en facatativa porfa urgente,consulta_producto
+no estoy conforme y quiero mi dinero de vuelta en facatativa necesito solucion,devolucion_reembolso
+recibi el pedid roto en madrid porfa urgente,producto_danado
+hay stock del producto en chia necesito solucion,consulta_producto
+solicito reembolso por pedido en chia ya reclame antes,devolucion_reembolso
+necesito detalles del articulo antes de comprar en mosqra nadie respnde,consulta_producto
+el producto lego dañado en madrid ayuda,producto_danado
+como va el estado del peddo en funza que pasa con esto,seguimiento_pedido
+que caracteristicas tiene el producto en facatativa ayuda,consulta_producto
+tengo inconvenientes con el cobro en facatativa ya reclame antes,problema_pago
+no ntregaron el producto en zipa,reclamo_entrega
+necesito detalles del articulo antes de comprar en mosquera necesito solucion,consulta_producto
+que caracteristicas tiene el producto en madrid ya reclame antes,consulta_producto
+quiero rastrear mi compra en madrid ya reclame antes,seguimiento_pedido
+el paqte llego pero el producto esta malo en facatativa,producto_danado
+que caracteristicas tiene el producto en mosquera necesito solucion,consulta_producto
+necesito seguimiento del envio en zipa ayuda,seguimiento_pedido
+necesito detalles del articulo antes de comprar en mosquera ya es mucho tiempo,consulta_producto
+hay stock del producto en facatativa,consulta_producto
+necesito detalles del articulo antes de comprar en chia necesito solucion,consulta_producto
+el paquete llego pero el producto esta malo en mosquera porfa urgente,producto_danado
+tuve error al hacer el pago en zipa,problema_pago
+en zipa sigo esperando el envio q pasa con esto,reclamo_entrega
+recibi el pedido rto en madrid porfa urgente,producto_danado
+pueden decirme cuando llega el pedido a madrid ya reclame antes,seguimiento_pedido
+lo que compre llego en mal estado a facatativa necesito solucion,producto_danado
+el paquete llego pero el producto esta malo en funza ya es mucho tiempo,producto_danado
+mi pedido no ha llegado a madrid desde una semana nadie responde,reclamo_entrega
+necesito detalles del articulo antes de comprar en chia nadie responde,consulta_producto
+recibi el pedido roto en madrid ayuda,producto_danado
+el paquete llego pero el producto esta malo en madrid necesito solucion,producto_danado
+pueden decirme cuando lleg el pedido a facatativa que pasa con esto,seguimiento_pedido
+recibi el pedido roto en bogota ya reclame antes,producto_danado
+el pedido nunca llego a ogota ya reclame antes,reclamo_entrega
+no me dejo pagar el pedido en chia ya reclame antes,problema_pago
+no estoy conforme y quiero mi dinero de vuelta en bogota nadie responde,devolucion_reembolso
+no recibo el paquete en mosquera y ya paso varios dias,reclamo_entrega
+quiero saber donde va mi pedido en bogota ya es mucho tiempo,seguimiento_pedido
+necesito hacer devolucion del articulo en facatativa necesito solucion,devolucion_reembolso
+en mosqra sigo esperando el envio porfa urgente,reclamo_entrega
+no recibo el paquete en funza y ya paso una semana que pasa con esto,reclamo_entrega
+necsito hacer devolucion del articulo en funza ya es mucho tiempo,devolucion_reembolso
+recibi el pedido roto en madrid que pasa con esto,producto_danado
+quiero cancelar la compra hecha en funza ya es mucho tiempo,devolucion_reembolso
+tengo inconvenientes con el cobro en funza ayuda,problema_pago
+e sistema rechazo mi tarjeta en bogota ya es mucho tiempo,problema_pago
+el sistem rechazo mi tarjeta en funza ya reclame antes,problema_pago
+no entregaron el producto en chia nadie responde,reclamo_entrega
+quiero rastrear mi compra en chia nadie responde,seguimiento_pedido
+solicito reembolso por pedido en zipa ya es mucho tiempo,devolucion_reembolso
+lo que compre llego en mal estado a funza ya es mucho tiempo,producto_danado
+quiero cancelar la compra hecha en funza q pasa con esto,devolucion_reembolso
+no me dejo pagar el peddo en madrid nadie responde,problema_pago
+el paquete llego pero el producto esta malo en chia porfa urgente,producto_danado
+necesito seguimiento del envio en bogota ya es mucho tempo,seguimiento_pedido
+en chia sigo esperando el envio q pasa con esto,reclamo_entrega
+quiero saber donde va mi pedido en madrid,seguimiento_pedido
+el producto llego dañdo en bogota necesito solucion,producto_danado
+como va el estado del pedido en madid ayuda,seguimiento_pedido
+no estoy conforme y quiero mi dinero de vuelta en facatativa porfa urgente,devolucion_reembolso
+recibi el pedido roto en chia ayuda,producto_danado
+quiero saber donde va mi pedido en mosquera porfa urgnte,seguimiento_pedido
+no estoy conforme y quiero mi dinero de vuelta en madrid porfa urgente,devolucion_reembolso
+no recibo el paqte en mosqra y ya paso una semana ya es mucho tiempo,reclamo_entrega
+no recibo el paquete en mosquera y ya paso mucho tiempo ya es mucho tiempo,reclamo_entrega
+necesito detalles del articulo antes de comprar en zipa ya es mucho tiempo,consulta_producto
+quiero cancelar la compra hecha en funza que pasa con esto,devolucion_reembolso
+el producto llego dañado en madrid nadie responde,producto_danado
+q caracteristicas tiene el producto en madrid,consulta_producto
+el producto llego dañado en chia porfa urgente,producto_danado
+quiero saber donde va mi peddo en mosquera nadie responde,seguimiento_pedido
+el paquete llego pero el producto esta malo en funza,producto_danado
+que caracteristicas tiene el producto en bogota ya es mucho tiempo,consulta_producto
+lo que compre llego en mal estad a bogota nadie responde,producto_danado
+quiero rastrear mi compra en facatativa necesito solucion,seguimiento_pedido
+en funza sigo esperando el envio necesito solucion,reclamo_entrega
+no entregaron el producto en bogota nadie responde,reclamo_entrega
+no recibo el paqte en funza y ya paso mucho tiempo necesito solucion,reclamo_entrega
+solicito reembolso por pedido en zipa a es mucho tiempo,devolucion_reembolso
+necesito detalles del articulo antes de comprar en madri ya es mucho tiempo,consulta_producto
+mi pedido no ha llegado a chia desde dias q pasa con esto,reclamo_entrega
+en cia sigo esperando el envio necesito solucion,reclamo_entrega
+necesito seguimiento del envio en bogota nadie responde,seguimiento_pedido
+como va el estado del pedido en chia ya reclame antes,seguimiento_pedido
+quiero rastrear mi compra en mosquera necesito solucion,seguimiento_pedido
+el pedido nunca llego a facatativa nadie responde,reclamo_entrega
+quiero rastrear mi compra en madrid necesito solucion,seguimiento_pedido
+no me dejo pagar el pedido en chia nadie rsponde,problema_pago
+hay stock del producto en mosqra q pasa con esto,consulta_producto
+como va el estado del peddo en bogota necesito solucion,seguimiento_pedido
+recibi el pedido roto en facatativa,producto_danado
+no recibo el paquete en bogota y ya paso varios dias ya reclame antes,reclamo_entrega
+quiero devolver el producto comprado en facatativa ayuda,devolucion_reembolso
+lo q compre lego en mal estado a funza,producto_danado
+mi pedido no ha llegado a chia desde dias necesito solucion,reclamo_entrega
+no se completo el pago del producto en facatativa nadie responde,problema_pago
+quiero devolver el producto comprado en mosqra nadie responde,devolucion_reembolso
+no entregaron el producto en madrid porfa urgente,reclamo_entrega
+mi pedido no ha legado a chia desde una semana q pasa con esto,reclamo_entrega
+no recibo el paquete en msquera y ya paso varios dias ya es mucho tiempo,reclamo_entrega
+lo que compre llego en mal estado a faatativa necesito solucion,producto_danado
+no se completo el pago del producto en chia porfa urgente,problema_pago
+el articulo vino defectuoso en funza necesito solucion,producto_danado
+el producto llego dañado n facatativa ayuda,producto_danado
+necesito hacer devolucion del articulo en mosqra,devolucion_reembolso
+el pedido nunca llego a bogota,reclamo_entrega
+q caracteristicas tiene el producto en chia ayuda,consulta_producto
+que caracterisicas tiene el producto en madrid ayuda,consulta_producto
+quiero rastrear mi compra en chia necesito solucion,seguimiento_pedido
+no se completo el pago del producto en mosqra ya es mucho tiempo,problema_pago
+el producto llego dañado en mosquera necesito solucion,producto_danado
+el pedido nunca llego a chia a es mucho tiempo,reclamo_entrega
+no me dejo pagar el pedido en mosquera ayuda,problema_pago
+quiero cancelar la compra hecha en bogota necesito solucion,devolucion_reembolso
+el articulo vino defectuoso en facatativa porfa urgente,producto_danado
+hay stock del producto en funza,consulta_producto
+quiero saer si tienen disponibilidad en madrid,consulta_producto
+el paqte llego pero el producto esta malo en bogota necesito solucion,producto_danado
+necesito seguimiento del envio en zipa nadie responde,seguimiento_pedido
+tuve error al hacer el pago en mosqra,problema_pago
+quiero saber si tienen disponibilidad en facatativa porfa urgente,consulta_producto
+hay stock del producto en mosqra ya es mucho tiempo,consulta_producto
+no entregaron el producto en facatativa necesito solucion,reclamo_entrega
+necesito seguimiento del envio en bogota q pasa con esto,seguimiento_pedido
+no entregaron el producto en chia q pasa con esto,reclamo_entrega
+necesito detalles del articulo antes de comprar en facatativa ya reclame antes,consulta_producto
+pueden decirme cuando llega el pedido a zipa necesito solucion,seguimiento_pedido
+no me dejo pagar el pedido en zipa que pasa con eso,problema_pago
+el pedido nunca llego a madrid necesito solucion,reclamo_entrega
+lo q compre llego en mal estado a madrid ya es mucho tiempo,producto_danado
+mi pedido no ha llegado a madrid desde dias ya es mucho tiempo,reclamo_entrega
+recibi el pedido roto en chia q pasa con esto,producto_danado
+tengo inconvenientes con el cobro en madrid que pasa con esto,problema_pago
+necesito seguimiento del envio en zipa ya es mucho tiempo,seguimiento_pedido
+recbi el pedido roto en funza,producto_danado
+el paquete llego pero el producto esta malo en bogota ayuda,producto_danado
+no recibo el paqte en mosqra y ya paso mas de una semana ya reclame antes,reclamo_entrega
+no entregaron el producto en chia que pasa con esto,reclamo_entrega
+no recibo el paquete en funza y ya paso mas de una semana porfa urgete,reclamo_entrega
+no me dejo pagar el pedido en facatativa ya es mucho tiempo,problema_pago
+hay stock del producto en madrid ya reclame antes,consulta_producto
+no entregaron el producto en facatativa ya es mucho tiempo,reclamo_entrega
+el articulo vino defectuoso en zipa nadie responde,producto_danado
+tuve error alhacer el pago en mosquera,problema_pago
+no se completo el pago del producto en madrid ya reclame antes,problema_pago
+necesito hacer devolucion del articulo en madrid necesito solucion,devolucion_reembolso
+mi peddo no ha llegado a mosqra desde mucho tiempo necesito solucion,reclamo_entrega
+quiero saber si tienen disponibilidad en bogota que pasa con esto,consulta_producto
+como va el estado del pedido en madrid necesito solucion,seguimiento_pedido
+lo que compre llego en mal estdo a mosquera,producto_danado
+lo que compre llego en mal estado a madrid ya es mucho tiempo,producto_danado
+el sistema rechazo mi tarjeta en zipa ayuda,problema_pago
+necesito detalles del articulo antes de comprar en mosqra porfa urgente,consulta_producto
+que carcteristicas tiene el producto en mosquera,consulta_producto
+quiero rastrear mi compra en mosquera ya es mucho tiempo,seguimiento_pedido
+el pedido nunca llego a zipa ayuda,reclamo_entrega
+solicito reembolso por pedidoen bogota ayuda,devolucion_reembolso
+hay stock del producto en chia nadie reponde,consulta_producto
+el articulo vino defectuos en chia,producto_danado
+el pedido nunca llego a funza que pasa con esto,reclamo_entrega
+lo q compre llego en ml estado a madrid ya es mucho tiempo,producto_danado
+necesito seguimiento del envio en mosquera ya reclame antes,seguimiento_pedido
+el pedido nunca llego a mosquera ayuda,reclamo_entrega
+como va el estado del pedido en chia nadie responde,seguimiento_pedido
+quiero cancelar la compra hecha en chia ya es mucho tiempo,devolucion_reembolso
+quiero devolver el producto comprado en bogota ya es mucho tiempo,devolucion_reembolso
+necesito detalles del articulo antes de comprar en chia porfa urgente,consulta_producto
+pueden decirme cuando llega el pedido a mosqra,seguimiento_pedido
+lo q compre llego en mal estado a mosqr ayuda,producto_danado
+como va el estado del peddo en mosquera porfa urgente,seguimiento_pedido
+quiero saber si tienendisponibilidad en funza nadie responde,consulta_producto
+que caracteristicas tiene el producto en facatativaayuda,consulta_producto
+tuve error al hacer el pago en facatativa porfa urgente,problema_pago
+no recibo el paqte en zipa y ya paso varios dias q pasa con esto,reclamo_entrega
+el peddonunca llego a zipa necesito solucion,reclamo_entrega
+no me dejo pagar el pedido en zipa,problema_pago
+recibi el pedido roto en funza necesito solucion,producto_danado
+no me dejo pagar el pedido en bogota ayuda,problema_pago
+el paqte llego pero el producto esta malo en facatativa yareclame antes,producto_danado
+necesito hacer devolucion del articulo en mosqra ya reclame antes,devolucion_reembolso
+no me dejo pagar el pedido e facatativa porfa urgente,problema_pago
+no se completo el pago del producto en bogota que pasa con esto,problema_pago
+que caracteristicas tiene el producto en funza nadie responde,consulta_producto
+quiero devolver el producto comprado en bogota,devolucion_reembolso
+recibi el pedido roto en facatativa ya es mucho tiempo,producto_danado
+solicito reembolso por pedido en mosquera ayua,devolucion_reembolso
+pueden decirme cuando llega el peddo a bogota ayuda,seguimiento_pedido
+el pedido nunca llego a bogota nadie responde,reclamo_entrega
+tengo inconvenientes con el cobro en mosquera ya reclame antes,problema_pago
